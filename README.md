@@ -15,3 +15,8 @@ Configured builds check for updates when the game starts. If an update is availa
 Completed scheduled builds are published after the 4:00 AM Eastern installer queue runs; explicitly requested manual installer builds use the same channel.
 
 This repository contains public downloads and release information. Game source code and player saves are not uploaded here.
+
+
+## Snipline has moved
+
+Snipline downloads are now at https://github.com/curtner04/snipline-downloads . This repository is for Graveyard Shift; its historical Snipline release is retained only for old links.
